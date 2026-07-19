@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**xilicrysta/xilicrysta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Tokyo**
 
-Here are some ideas to get you started:
+- 🟢 [**TMA (Flash Anzan)**](https://github.com/xilicrysta/TMA) : フラッシュ暗算・読み上げ算などの珠算学習アプリ
+- 🟢 [**Capsomnia**](https://github.com/xilicrysta/Capsomnia) : change caps lock into a physical keep-awake switch for closed-lid MacBook work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.tenor.com/uYr_ayFCAroAAAAM/math-raccoon.gif" width="600" alt="Math Raccoon" />
+
+<br>
+
+<a href="https://github.com/sponsors/xilicrysta">
+  <img src="https://img.shields.io/badge/Support_Capsomnia-GitHub_Sponsors-ea4aaa?style=flat-square&logo=github" alt="GitHub Sponsors" />
+</a>
+<a href="https://www.buymeacoffee.com/xilicrysta">
+  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
