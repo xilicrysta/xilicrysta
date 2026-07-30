@@ -1,6 +1,3 @@
-## Hi there 🧮
-
-📍 **Nagoya**
 
 - 🟣 [**TMA (Flash Anzan)**](https://github.com/xilicrysta/TMA) : A comprehensive mental math and Soroban (abacus) learning app featuring Flash Anzan.  
 
